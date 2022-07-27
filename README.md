@@ -6,9 +6,7 @@ MailBook is a contact organizer application. You can store various info about yo
 
 You can access demo app with this link. You need to copy this link and open new tab to see the result:
 
-```bash
-testing-ajb.vercel.app
-```
+https://testing-ajb.vercel.app/
 
 ## Demo
 
